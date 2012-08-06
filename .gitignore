@@ -1,0 +1,16 @@
+.idea/libraries/*
+.idea/*
+cobertura.ser
+logs/*
+test-result/*
+tmp/*
+out/*
+.DS_Store
+log/*
+*.iml
+*.ipr
+*.iws
+javadoc/*
+precompiled/*
+data/*
+*.patch
